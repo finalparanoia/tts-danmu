@@ -1,0 +1,9 @@
+{
+  "cookie": {
+    "sessdata": "omitted",
+    "bili_jct": "omitted",
+    "buvid3": "omitted"
+  },
+  "tts": { "endpoint": "http://127.0.0.1:8000" },
+  "room_id": 0
+}
